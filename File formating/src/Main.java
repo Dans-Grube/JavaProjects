@@ -10,7 +10,6 @@ import java.util.Scanner;
 
 public class Main {
 
-    // This program replace all small letters by uppercase letters
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
