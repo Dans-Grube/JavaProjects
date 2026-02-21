@@ -1,4 +1,4 @@
-// 251RDB013 Dans Grūbe 15
+//Dans Grūbe
 
 import java.io.File;
 import java.io.FileReader;
